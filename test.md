@@ -1,323 +1,323 @@
 | RS    | AGS   | GEN                               | BEZ              |
 |-------|-------|-----------------------------------|------------------|
-| 1001  | 1001  | Flensburg                         | Kreisfreie Stadt |
-| 1002  | 1002  | Kiel                              | Kreisfreie Stadt |
-| 1003  | 1003  | Lübeck                            | Kreisfreie Stadt |
-| 1004  | 1004  | Neumünster                        | Kreisfreie Stadt |
-| 1051  | 1051  | Dithmarschen                      | Kreis            |
-| 1053  | 1053  | Herzogtum Lauenburg               | Kreis            |
-| 1054  | 1054  | Nordfriesland                     | Kreis            |
-| 1055  | 1055  | Ostholstein                       | Kreis            |
-| 1056  | 1056  | Pinneberg                         | Kreis            |
-| 1057  | 1057  | Plön                              | Kreis            |
-| 1058  | 1058  | Rendsburg-Eckernförde             | Kreis            |
-| 1059  | 1059  | Schleswig-Flensburg               | Kreis            |
-| 1060  | 1060  | Segeberg                          | Kreis            |
-| 1061  | 1061  | Steinburg                         | Kreis            |
-| 1062  | 1062  | Stormarn                          | Kreis            |
-| 2000  | 2000  | Hamburg                           | Kreisfreie Stadt |
-| 3101  | 3101  | Braunschweig                      | Kreisfreie Stadt |
-| 3102  | 3102  | Salzgitter                        | Kreisfreie Stadt |
-| 3103  | 3103  | Wolfsburg                         | Kreisfreie Stadt |
-| 3151  | 3151  | Gifhorn                           | Landkreis        |
-| 3153  | 3153  | Goslar                            | Landkreis        |
-| 3154  | 3154  | Helmstedt                         | Landkreis        |
-| 3155  | 3155  | Northeim                          | Landkreis        |
-| 3157  | 3157  | Peine                             | Landkreis        |
-| 3158  | 3158  | Wolfenbüttel                      | Landkreis        |
-| 3159  | 3159  | Göttingen                         | Landkreis        |
-| 3241  | 3241  | Region Hannover                   | Landkreis        |
-| 3251  | 3251  | Diepholz                          | Landkreis        |
-| 3252  | 3252  | Hameln-Pyrmont                    | Landkreis        |
-| 3254  | 3254  | Hildesheim                        | Landkreis        |
-| 3255  | 3255  | Holzminden                        | Landkreis        |
-| 3256  | 3256  | Nienburg (Weser)                  | Landkreis        |
-| 3257  | 3257  | Schaumburg                        | Landkreis        |
-| 3351  | 3351  | Celle                             | Landkreis        |
-| 3352  | 3352  | Cuxhaven                          | Landkreis        |
-| 3353  | 3353  | Harburg                           | Landkreis        |
-| 3354  | 3354  | Lüchow-Dannenberg                 | Landkreis        |
-| 3355  | 3355  | Lüneburg                          | Landkreis        |
-| 3356  | 3356  | Osterholz                         | Landkreis        |
-| 3357  | 3357  | Rotenburg (Wümme)                 | Landkreis        |
-| 3358  | 3358  | Heidekreis                        | Landkreis        |
-| 3359  | 3359  | Stade                             | Landkreis        |
-| 3360  | 3360  | Uelzen                            | Landkreis        |
-| 3361  | 3361  | Verden                            | Landkreis        |
-| 3401  | 3401  | Delmenhorst                       | Kreisfreie Stadt |
-| 3402  | 3402  | Emden                             | Kreisfreie Stadt |
-| 3403  | 3403  | Oldenburg (Oldb)                  | Kreisfreie Stadt |
-| 3404  | 3404  | Osnabrück                         | Kreisfreie Stadt |
-| 3405  | 3405  | Wilhelmshaven                     | Kreisfreie Stadt |
-| 3451  | 3451  | Ammerland                         | Landkreis        |
-| 3452  | 3452  | Aurich                            | Landkreis        |
-| 3453  | 3453  | Cloppenburg                       | Landkreis        |
-| 3454  | 3454  | Emsland                           | Landkreis        |
-| 3455  | 3455  | Friesland                         | Landkreis        |
-| 3456  | 3456  | Grafschaft Bentheim               | Landkreis        |
-| 3457  | 3457  | Leer                              | Landkreis        |
-| 3458  | 3458  | Oldenburg                         | Landkreis        |
-| 3459  | 3459  | Osnabrück                         | Landkreis        |
-| 3460  | 3460  | Vechta                            | Landkreis        |
-| 3461  | 3461  | Wesermarsch                       | Landkreis        |
-| 3462  | 3462  | Wittmund                          | Landkreis        |
-| 4011  | 4011  | Bremen                            | Kreisfreie Stadt |
-| 4012  | 4012  | Bremerhaven                       | Kreisfreie Stadt |
-| 5111  | 5111  | Düsseldorf                        | Kreisfreie Stadt |
-| 5112  | 5112  | Duisburg                          | Kreisfreie Stadt |
-| 5113  | 5113  | Essen                             | Kreisfreie Stadt |
-| 5114  | 5114  | Krefeld                           | Kreisfreie Stadt |
-| 5116  | 5116  | Mönchengladbach                   | Kreisfreie Stadt |
-| 5117  | 5117  | Mülheim an der Ruhr               | Kreisfreie Stadt |
-| 5119  | 5119  | Oberhausen                        | Kreisfreie Stadt |
-| 5120  | 5120  | Remscheid                         | Kreisfreie Stadt |
-| 5122  | 5122  | Solingen                          | Kreisfreie Stadt |
-| 5124  | 5124  | Wuppertal                         | Kreisfreie Stadt |
-| 5154  | 5154  | Kleve                             | Kreis            |
-| 5158  | 5158  | Mettmann                          | Kreis            |
-| 5162  | 5162  | Rhein-Kreis Neuss                 | Kreis            |
-| 5166  | 5166  | Viersen                           | Kreis            |
-| 5170  | 5170  | Wesel                             | Kreis            |
-| 5314  | 5314  | Bonn                              | Kreisfreie Stadt |
-| 5315  | 5315  | Köln                              | Kreisfreie Stadt |
-| 5316  | 5316  | Leverkusen                        | Kreisfreie Stadt |
-| 5334  | 5334  | Städteregion Aachen               | Kreis            |
-| 5358  | 5358  | Düren                             | Kreis            |
-| 5362  | 5362  | Rhein-Erft-Kreis                  | Kreis            |
-| 5366  | 5366  | Euskirchen                        | Kreis            |
-| 5370  | 5370  | Heinsberg                         | Kreis            |
-| 5374  | 5374  | Oberbergischer Kreis              | Kreis            |
-| 5378  | 5378  | Rheinisch-Bergischer Kreis        | Kreis            |
-| 5382  | 5382  | Rhein-Sieg-Kreis                  | Kreis            |
-| 5512  | 5512  | Bottrop                           | Kreisfreie Stadt |
-| 5513  | 5513  | Gelsenkirchen                     | Kreisfreie Stadt |
-| 5515  | 5515  | Münster                           | Kreisfreie Stadt |
-| 5554  | 5554  | Borken                            | Kreis            |
-| 5558  | 5558  | Coesfeld                          | Kreis            |
-| 5562  | 5562  | Recklinghausen                    | Kreis            |
-| 5566  | 5566  | Steinfurt                         | Kreis            |
-| 5570  | 5570  | Warendorf                         | Kreis            |
-| 5711  | 5711  | Bielefeld                         | Kreisfreie Stadt |
-| 5754  | 5754  | Gütersloh                         | Kreis            |
-| 5758  | 5758  | Herford                           | Kreis            |
-| 5762  | 5762  | Höxter                            | Kreis            |
-| 5766  | 5766  | Lippe                             | Kreis            |
-| 5770  | 5770  | Minden-Lübbecke                   | Kreis            |
-| 5774  | 5774  | Paderborn                         | Kreis            |
-| 5911  | 5911  | Bochum                            | Kreisfreie Stadt |
-| 5913  | 5913  | Dortmund                          | Kreisfreie Stadt |
-| 5914  | 5914  | Hagen                             | Kreisfreie Stadt |
-| 5915  | 5915  | Hamm                              | Kreisfreie Stadt |
-| 5916  | 5916  | Herne                             | Kreisfreie Stadt |
-| 5954  | 5954  | Ennepe-Ruhr-Kreis                 | Kreis            |
-| 5958  | 5958  | Hochsauerlandkreis                | Kreis            |
-| 5962  | 5962  | Märkischer Kreis                  | Kreis            |
-| 5966  | 5966  | Olpe                              | Kreis            |
-| 5970  | 5970  | Siegen-Wittgenstein               | Kreis            |
-| 5974  | 5974  | Soest                             | Kreis            |
-| 5978  | 5978  | Unna                              | Kreis            |
-| 6411  | 6411  | Darmstadt                         | Kreisfreie Stadt |
-| 6412  | 6412  | Frankfurt am Main                 | Kreisfreie Stadt |
-| 6413  | 6413  | Offenbach am Main                 | Kreisfreie Stadt |
-| 6414  | 6414  | Wiesbaden                         | Kreisfreie Stadt |
-| 6431  | 6431  | Bergstraße                        | Landkreis        |
-| 6432  | 6432  | Darmstadt-Dieburg                 | Landkreis        |
-| 6433  | 6433  | Groß-Gerau                        | Landkreis        |
-| 6434  | 6434  | Hochtaunuskreis                   | Landkreis        |
-| 6435  | 6435  | Main-Kinzig-Kreis                 | Landkreis        |
-| 6436  | 6436  | Main-Taunus-Kreis                 | Landkreis        |
-| 6437  | 6437  | Odenwaldkreis                     | Landkreis        |
-| 6438  | 6438  | Offenbach                         | Landkreis        |
-| 6439  | 6439  | Rheingau-Taunus-Kreis             | Landkreis        |
-| 6440  | 6440  | Wetteraukreis                     | Landkreis        |
-| 6531  | 6531  | Gießen                            | Landkreis        |
-| 6532  | 6532  | Lahn-Dill-Kreis                   | Landkreis        |
-| 6533  | 6533  | Limburg-Weilburg                  | Landkreis        |
-| 6534  | 6534  | Marburg-Biedenkopf                | Landkreis        |
-| 6535  | 6535  | Vogelsbergkreis                   | Landkreis        |
-| 6611  | 6611  | Kassel                            | Kreisfreie Stadt |
-| 6631  | 6631  | Fulda                             | Landkreis        |
-| 6632  | 6632  | Hersfeld-Rotenburg                | Landkreis        |
-| 6633  | 6633  | Kassel                            | Landkreis        |
-| 6634  | 6634  | Schwalm-Eder-Kreis                | Landkreis        |
-| 6635  | 6635  | Waldeck-Frankenberg               | Landkreis        |
-| 6636  | 6636  | Werra-Meißner-Kreis               | Landkreis        |
-| 7111  | 7111  | Koblenz                           | Kreisfreie Stadt |
-| 7131  | 7131  | Ahrweiler                         | Landkreis        |
-| 7132  | 7132  | Altenkirchen (Westerwald)         | Landkreis        |
-| 7133  | 7133  | Bad Kreuznach                     | Landkreis        |
-| 7134  | 7134  | Birkenfeld                        | Landkreis        |
-| 7135  | 7135  | Cochem-Zell                       | Landkreis        |
-| 7137  | 7137  | Mayen-Koblenz                     | Landkreis        |
-| 7138  | 7138  | Neuwied                           | Landkreis        |
-| 7140  | 7140  | Rhein-Hunsrück-Kreis              | Landkreis        |
-| 7141  | 7141  | Rhein-Lahn-Kreis                  | Landkreis        |
-| 7143  | 7143  | Westerwaldkreis                   | Landkreis        |
-| 7211  | 7211  | Trier                             | Kreisfreie Stadt |
-| 7231  | 7231  | Bernkastel-Wittlich               | Landkreis        |
-| 7232  | 7232  | Eifelkreis Bitburg-Prüm           | Landkreis        |
-| 7233  | 7233  | Vulkaneifel                       | Landkreis        |
-| 7235  | 7235  | Trier-Saarburg                    | Landkreis        |
-| 7311  | 7311  | Frankenthal (Pfalz)               | Kreisfreie Stadt |
-| 7312  | 7312  | Kaiserslautern                    | Kreisfreie Stadt |
-| 7313  | 7313  | Landau in der Pfalz               | Kreisfreie Stadt |
-| 7314  | 7314  | Ludwigshafen am Rhein             | Kreisfreie Stadt |
-| 7315  | 7315  | Mainz                             | Kreisfreie Stadt |
-| 7316  | 7316  | Neustadt an der Weinstraße        | Kreisfreie Stadt |
-| 7317  | 7317  | Pirmasens                         | Kreisfreie Stadt |
-| 7318  | 7318  | Speyer                            | Kreisfreie Stadt |
-| 7319  | 7319  | Worms                             | Kreisfreie Stadt |
-| 7320  | 7320  | Zweibrücken                       | Kreisfreie Stadt |
-| 7331  | 7331  | Alzey-Worms                       | Landkreis        |
-| 7332  | 7332  | Bad Dürkheim                      | Landkreis        |
-| 7333  | 7333  | Donnersbergkreis                  | Landkreis        |
-| 7334  | 7334  | Germersheim                       | Landkreis        |
-| 7335  | 7335  | Kaiserslautern                    | Landkreis        |
-| 7336  | 7336  | Kusel                             | Landkreis        |
-| 7337  | 7337  | Südliche Weinstraße               | Landkreis        |
-| 7338  | 7338  | Rhein-Pfalz-Kreis                 | Landkreis        |
-| 7339  | 7339  | Mainz-Bingen                      | Landkreis        |
-| 7340  | 7340  | Südwestpfalz                      | Landkreis        |
-| 8111  | 8111  | Stuttgart                         | Stadtkreis       |
-| 8115  | 8115  | Böblingen                         | Landkreis        |
-| 8116  | 8116  | Esslingen                         | Landkreis        |
-| 8117  | 8117  | Göppingen                         | Landkreis        |
-| 8118  | 8118  | Ludwigsburg                       | Landkreis        |
-| 8119  | 8119  | Rems-Murr-Kreis                   | Landkreis        |
-| 8121  | 8121  | Heilbronn                         | Stadtkreis       |
-| 8125  | 8125  | Heilbronn                         | Landkreis        |
-| 8126  | 8126  | Hohenlohekreis                    | Landkreis        |
-| 8127  | 8127  | Schwäbisch Hall                   | Landkreis        |
-| 8128  | 8128  | Main-Tauber-Kreis                 | Landkreis        |
-| 8135  | 8135  | Heidenheim                        | Landkreis        |
-| 8136  | 8136  | Ostalbkreis                       | Landkreis        |
-| 8211  | 8211  | Baden-Baden                       | Stadtkreis       |
-| 8212  | 8212  | Karlsruhe                         | Stadtkreis       |
-| 8215  | 8215  | Karlsruhe                         | Landkreis        |
-| 8216  | 8216  | Rastatt                           | Landkreis        |
-| 8221  | 8221  | Heidelberg                        | Stadtkreis       |
-| 8222  | 8222  | Mannheim                          | Stadtkreis       |
-| 8225  | 8225  | Neckar-Odenwald-Kreis             | Landkreis        |
-| 8226  | 8226  | Rhein-Neckar-Kreis                | Landkreis        |
-| 8231  | 8231  | Pforzheim                         | Stadtkreis       |
-| 8235  | 8235  | Calw                              | Landkreis        |
-| 8236  | 8236  | Enzkreis                          | Landkreis        |
-| 8237  | 8237  | Freudenstadt                      | Landkreis        |
-| 8311  | 8311  | Freiburg im Breisgau              | Stadtkreis       |
-| 8315  | 8315  | Breisgau-Hochschwarzwald          | Landkreis        |
-| 8316  | 8316  | Emmendingen                       | Landkreis        |
-| 8317  | 8317  | Ortenaukreis                      | Landkreis        |
-| 8325  | 8325  | Rottweil                          | Landkreis        |
-| 8326  | 8326  | Schwarzwald-Baar-Kreis            | Landkreis        |
-| 8327  | 8327  | Tuttlingen                        | Landkreis        |
-| 8335  | 8335  | Konstanz                          | Landkreis        |
-| 8336  | 8336  | Lörrach                           | Landkreis        |
-| 8337  | 8337  | Waldshut                          | Landkreis        |
-| 8415  | 8415  | Reutlingen                        | Landkreis        |
-| 8416  | 8416  | Tübingen                          | Landkreis        |
-| 8417  | 8417  | Zollernalbkreis                   | Landkreis        |
-| 8421  | 8421  | Ulm                               | Stadtkreis       |
-| 8425  | 8425  | Alb-Donau-Kreis                   | Landkreis        |
-| 8426  | 8426  | Biberach                          | Landkreis        |
-| 8435  | 8435  | Bodenseekreis                     | Landkreis        |
-| 8436  | 8436  | Ravensburg                        | Landkreis        |
-| 8437  | 8437  | Sigmaringen                       | Landkreis        |
-| 9161  | 9161  | Ingolstadt                        | Kreisfreie Stadt |
-| 9162  | 9162  | München                           | Kreisfreie Stadt |
-| 9163  | 9163  | Rosenheim                         | Kreisfreie Stadt |
-| 9171  | 9171  | Altötting                         | Landkreis        |
-| 9172  | 9172  | Berchtesgadener Land              | Landkreis        |
-| 9173  | 9173  | Bad Tölz-Wolfratshausen           | Landkreis        |
-| 9174  | 9174  | Dachau                            | Landkreis        |
-| 9175  | 9175  | Ebersberg                         | Landkreis        |
-| 9176  | 9176  | Eichstätt                         | Landkreis        |
-| 9177  | 9177  | Erding                            | Landkreis        |
-| 9178  | 9178  | Freising                          | Landkreis        |
-| 9179  | 9179  | Fürstenfeldbruck                  | Landkreis        |
-| 9180  | 9180  | Garmisch-Partenkirchen            | Landkreis        |
-| 9181  | 9181  | Landsberg am Lech                 | Landkreis        |
-| 9182  | 9182  | Miesbach                          | Landkreis        |
-| 9183  | 9183  | Mühldorf a. Inn                   | Landkreis        |
-| 9184  | 9184  | München                           | Landkreis        |
-| 9185  | 9185  | Neuburg-Schrobenhausen            | Landkreis        |
-| 9186  | 9186  | Pfaffenhofen a.d. Ilm             | Landkreis        |
-| 9187  | 9187  | Rosenheim                         | Landkreis        |
-| 9188  | 9188  | Starnberg                         | Landkreis        |
-| 9189  | 9189  | Traunstein                        | Landkreis        |
-| 9190  | 9190  | Weilheim-Schongau                 | Landkreis        |
-| 9261  | 9261  | Landshut                          | Kreisfreie Stadt |
-| 9262  | 9262  | Passau                            | Kreisfreie Stadt |
-| 9263  | 9263  | Straubing                         | Kreisfreie Stadt |
-| 9271  | 9271  | Deggendorf                        | Landkreis        |
-| 9272  | 9272  | Freyung-Grafenau                  | Landkreis        |
-| 9273  | 9273  | Kelheim                           | Landkreis        |
-| 9274  | 9274  | Landshut                          | Landkreis        |
-| 9275  | 9275  | Passau                            | Landkreis        |
-| 9276  | 9276  | Regen                             | Landkreis        |
-| 9277  | 9277  | Rottal-Inn                        | Landkreis        |
-| 9278  | 9278  | Straubing-Bogen                   | Landkreis        |
-| 9279  | 9279  | Dingolfing-Landau                 | Landkreis        |
-| 9361  | 9361  | Amberg                            | Kreisfreie Stadt |
-| 9362  | 9362  | Regensburg                        | Kreisfreie Stadt |
-| 9363  | 9363  | Weiden i.d. OPf.                  | Kreisfreie Stadt |
-| 9371  | 9371  | Amberg-Sulzbach                   | Landkreis        |
-| 9372  | 9372  | Cham                              | Landkreis        |
-| 9373  | 9373  | Neumarkt i.d. OPf.                | Landkreis        |
-| 9374  | 9374  | Neustadt a.d. Waldnaab            | Landkreis        |
-| 9375  | 9375  | Regensburg                        | Landkreis        |
-| 9376  | 9376  | Schwandorf                        | Landkreis        |
-| 9377  | 9377  | Tirschenreuth                     | Landkreis        |
-| 9461  | 9461  | Bamberg                           | Kreisfreie Stadt |
-| 9462  | 9462  | Bayreuth                          | Kreisfreie Stadt |
-| 9463  | 9463  | Coburg                            | Kreisfreie Stadt |
-| 9464  | 9464  | Hof                               | Kreisfreie Stadt |
-| 9471  | 9471  | Bamberg                           | Landkreis        |
-| 9472  | 9472  | Bayreuth                          | Landkreis        |
-| 9473  | 9473  | Coburg                            | Landkreis        |
-| 9474  | 9474  | Forchheim                         | Landkreis        |
-| 9475  | 9475  | Hof                               | Landkreis        |
-| 9476  | 9476  | Kronach                           | Landkreis        |
-| 9477  | 9477  | Kulmbach                          | Landkreis        |
-| 9478  | 9478  | Lichtenfels                       | Landkreis        |
-| 9479  | 9479  | Wunsiedel i. Fichtelgebirge       | Landkreis        |
-| 9561  | 9561  | Ansbach                           | Kreisfreie Stadt |
-| 9562  | 9562  | Erlangen                          | Kreisfreie Stadt |
-| 9563  | 9563  | Fürth                             | Kreisfreie Stadt |
-| 9564  | 9564  | Nürnberg                          | Kreisfreie Stadt |
-| 9565  | 9565  | Schwabach                         | Kreisfreie Stadt |
-| 9571  | 9571  | Ansbach                           | Landkreis        |
-| 9572  | 9572  | Erlangen-Höchstadt                | Landkreis        |
-| 9573  | 9573  | Fürth                             | Landkreis        |
-| 9574  | 9574  | Nürnberger Land                   | Landkreis        |
-| 9575  | 9575  | Neustadt a.d. Aisch-Bad Windsheim | Landkreis        |
-| 9576  | 9576  | Roth                              | Landkreis        |
-| 9577  | 9577  | Weißenburg-Gunzenhausen           | Landkreis        |
-| 9661  | 9661  | Aschaffenburg                     | Kreisfreie Stadt |
-| 9662  | 9662  | Schweinfurt                       | Kreisfreie Stadt |
-| 9663  | 9663  | Würzburg                          | Kreisfreie Stadt |
-| 9671  | 9671  | Aschaffenburg                     | Landkreis        |
-| 9672  | 9672  | Bad Kissingen                     | Landkreis        |
-| 9673  | 9673  | Rhön-Grabfeld                     | Landkreis        |
-| 9674  | 9674  | Haßberge                          | Landkreis        |
-| 9675  | 9675  | Kitzingen                         | Landkreis        |
-| 9676  | 9676  | Miltenberg                        | Landkreis        |
-| 9677  | 9677  | Main-Spessart                     | Landkreis        |
-| 9678  | 9678  | Schweinfurt                       | Landkreis        |
-| 9679  | 9679  | Würzburg                          | Landkreis        |
-| 9761  | 9761  | Augsburg                          | Kreisfreie Stadt |
-| 9762  | 9762  | Kaufbeuren                        | Kreisfreie Stadt |
-| 9763  | 9763  | Kempten (Allgäu)                  | Kreisfreie Stadt |
-| 9764  | 9764  | Memmingen                         | Kreisfreie Stadt |
-| 9771  | 9771  | Aichach-Friedberg                 | Landkreis        |
-| 9772  | 9772  | Augsburg                          | Landkreis        |
-| 9773  | 9773  | Dillingen a.d. Donau              | Landkreis        |
-| 9774  | 9774  | Günzburg                          | Landkreis        |
-| 9775  | 9775  | Neu-Ulm                           | Landkreis        |
-| 9776  | 9776  | Lindau (Bodensee)                 | Landkreis        |
-| 9777  | 9777  | Ostallgäu                         | Landkreis        |
-| 9778  | 9778  | Unterallgäu                       | Landkreis        |
-| 9779  | 9779  | Donau-Ries                        | Landkreis        |
-| 9780  | 9780  | Oberallgäu                        | Landkreis        |
+| 01001 | 01001 | Flensburg                         | Kreisfreie Stadt |
+| 01002 | 01002 | Kiel                              | Kreisfreie Stadt |
+| 01003 | 01003 | Lübeck                            | Kreisfreie Stadt |
+| 01004 | 01004 | Neumünster                        | Kreisfreie Stadt |
+| 01051 | 01051 | Dithmarschen                      | Kreis            |
+| 01053 | 01053 | Herzogtum Lauenburg               | Kreis            |
+| 01054 | 01054 | Nordfriesland                     | Kreis            |
+| 01055 | 01055 | Ostholstein                       | Kreis            |
+| 01056 | 01056 | Pinneberg                         | Kreis            |
+| 01057 | 01057 | Plön                              | Kreis            |
+| 01058 | 01058 | Rendsburg-Eckernförde             | Kreis            |
+| 01059 | 01059 | Schleswig-Flensburg               | Kreis            |
+| 01060 | 01060 | Segeberg                          | Kreis            |
+| 01061 | 01061 | Steinburg                         | Kreis            |
+| 01062 | 01062 | Stormarn                          | Kreis            |
+| 02000 | 02000 | Hamburg                           | Kreisfreie Stadt |
+| 03101 | 03101 | Braunschweig                      | Kreisfreie Stadt |
+| 03102 | 03102 | Salzgitter                        | Kreisfreie Stadt |
+| 03103 | 03103 | Wolfsburg                         | Kreisfreie Stadt |
+| 03151 | 03151 | Gifhorn                           | Landkreis        |
+| 03153 | 03153 | Goslar                            | Landkreis        |
+| 03154 | 03154 | Helmstedt                         | Landkreis        |
+| 03155 | 03155 | Northeim                          | Landkreis        |
+| 03157 | 03157 | Peine                             | Landkreis        |
+| 03158 | 03158 | Wolfenbüttel                      | Landkreis        |
+| 03159 | 03159 | Göttingen                         | Landkreis        |
+| 03241 | 03241 | Region Hannover                   | Landkreis        |
+| 03251 | 03251 | Diepholz                          | Landkreis        |
+| 03252 | 03252 | Hameln-Pyrmont                    | Landkreis        |
+| 03254 | 03254 | Hildesheim                        | Landkreis        |
+| 03255 | 03255 | Holzminden                        | Landkreis        |
+| 03256 | 03256 | Nienburg (Weser)                  | Landkreis        |
+| 03257 | 03257 | Schaumburg                        | Landkreis        |
+| 03351 | 03351 | Celle                             | Landkreis        |
+| 03352 | 03352 | Cuxhaven                          | Landkreis        |
+| 03353 | 03353 | Harburg                           | Landkreis        |
+| 03354 | 03354 | Lüchow-Dannenberg                 | Landkreis        |
+| 03355 | 03355 | Lüneburg                          | Landkreis        |
+| 03356 | 03356 | Osterholz                         | Landkreis        |
+| 03357 | 03357 | Rotenburg (Wümme)                 | Landkreis        |
+| 03358 | 03358 | Heidekreis                        | Landkreis        |
+| 03359 | 03359 | Stade                             | Landkreis        |
+| 03360 | 03360 | Uelzen                            | Landkreis        |
+| 03361 | 03361 | Verden                            | Landkreis        |
+| 03401 | 03401 | Delmenhorst                       | Kreisfreie Stadt |
+| 03402 | 03402 | Emden                             | Kreisfreie Stadt |
+| 03403 | 03403 | Oldenburg (Oldb)                  | Kreisfreie Stadt |
+| 03404 | 03404 | Osnabrück                         | Kreisfreie Stadt |
+| 03405 | 03405 | Wilhelmshaven                     | Kreisfreie Stadt |
+| 03451 | 03451 | Ammerland                         | Landkreis        |
+| 03452 | 03452 | Aurich                            | Landkreis        |
+| 03453 | 03453 | Cloppenburg                       | Landkreis        |
+| 03454 | 03454 | Emsland                           | Landkreis        |
+| 03455 | 03455 | Friesland                         | Landkreis        |
+| 03456 | 03456 | Grafschaft Bentheim               | Landkreis        |
+| 03457 | 03457 | Leer                              | Landkreis        |
+| 03458 | 03458 | Oldenburg                         | Landkreis        |
+| 03459 | 03459 | Osnabrück                         | Landkreis        |
+| 03460 | 03460 | Vechta                            | Landkreis        |
+| 03461 | 03461 | Wesermarsch                       | Landkreis        |
+| 03462 | 03462 | Wittmund                          | Landkreis        |
+| 04011 | 04011 | Bremen                            | Kreisfreie Stadt |
+| 04012 | 04012 | Bremerhaven                       | Kreisfreie Stadt |
+| 05111 | 05111 | Düsseldorf                        | Kreisfreie Stadt |
+| 05112 | 05112 | Duisburg                          | Kreisfreie Stadt |
+| 05113 | 05113 | Essen                             | Kreisfreie Stadt |
+| 05114 | 05114 | Krefeld                           | Kreisfreie Stadt |
+| 05116 | 05116 | Mönchengladbach                   | Kreisfreie Stadt |
+| 05117 | 05117 | Mülheim an der Ruhr               | Kreisfreie Stadt |
+| 05119 | 05119 | Oberhausen                        | Kreisfreie Stadt |
+| 05120 | 05120 | Remscheid                         | Kreisfreie Stadt |
+| 05122 | 05122 | Solingen                          | Kreisfreie Stadt |
+| 05124 | 05124 | Wuppertal                         | Kreisfreie Stadt |
+| 05154 | 05154 | Kleve                             | Kreis            |
+| 05158 | 05158 | Mettmann                          | Kreis            |
+| 05162 | 05162 | Rhein-Kreis Neuss                 | Kreis            |
+| 05166 | 05166 | Viersen                           | Kreis            |
+| 05170 | 05170 | Wesel                             | Kreis            |
+| 05314 | 05314 | Bonn                              | Kreisfreie Stadt |
+| 05315 | 05315 | Köln                              | Kreisfreie Stadt |
+| 05316 | 05316 | Leverkusen                        | Kreisfreie Stadt |
+| 05334 | 05334 | Städteregion Aachen               | Kreis            |
+| 05358 | 05358 | Düren                             | Kreis            |
+| 05362 | 05362 | Rhein-Erft-Kreis                  | Kreis            |
+| 05366 | 05366 | Euskirchen                        | Kreis            |
+| 05370 | 05370 | Heinsberg                         | Kreis            |
+| 05374 | 05374 | Oberbergischer Kreis              | Kreis            |
+| 05378 | 05378 | Rheinisch-Bergischer Kreis        | Kreis            |
+| 05382 | 05382 | Rhein-Sieg-Kreis                  | Kreis            |
+| 05512 | 05512 | Bottrop                           | Kreisfreie Stadt |
+| 05513 | 05513 | Gelsenkirchen                     | Kreisfreie Stadt |
+| 05515 | 05515 | Münster                           | Kreisfreie Stadt |
+| 05554 | 05554 | Borken                            | Kreis            |
+| 05558 | 05558 | Coesfeld                          | Kreis            |
+| 05562 | 05562 | Recklinghausen                    | Kreis            |
+| 05566 | 05566 | Steinfurt                         | Kreis            |
+| 05570 | 05570 | Warendorf                         | Kreis            |
+| 05711 | 05711 | Bielefeld                         | Kreisfreie Stadt |
+| 05754 | 05754 | Gütersloh                         | Kreis            |
+| 05758 | 05758 | Herford                           | Kreis            |
+| 05762 | 05762 | Höxter                            | Kreis            |
+| 05766 | 05766 | Lippe                             | Kreis            |
+| 05770 | 05770 | Minden-Lübbecke                   | Kreis            |
+| 05774 | 05774 | Paderborn                         | Kreis            |
+| 05911 | 05911 | Bochum                            | Kreisfreie Stadt |
+| 05913 | 05913 | Dortmund                          | Kreisfreie Stadt |
+| 05914 | 05914 | Hagen                             | Kreisfreie Stadt |
+| 05915 | 05915 | Hamm                              | Kreisfreie Stadt |
+| 05916 | 05916 | Herne                             | Kreisfreie Stadt |
+| 05954 | 05954 | Ennepe-Ruhr-Kreis                 | Kreis            |
+| 05958 | 05958 | Hochsauerlandkreis                | Kreis            |
+| 05962 | 05962 | Märkischer Kreis                  | Kreis            |
+| 05966 | 05966 | Olpe                              | Kreis            |
+| 05970 | 05970 | Siegen-Wittgenstein               | Kreis            |
+| 05974 | 05974 | Soest                             | Kreis            |
+| 05978 | 05978 | Unna                              | Kreis            |
+| 06411 | 06411 | Darmstadt                         | Kreisfreie Stadt |
+| 06412 | 06412 | Frankfurt am Main                 | Kreisfreie Stadt |
+| 06413 | 06413 | Offenbach am Main                 | Kreisfreie Stadt |
+| 06414 | 06414 | Wiesbaden                         | Kreisfreie Stadt |
+| 06431 | 06431 | Bergstraße                        | Landkreis        |
+| 06432 | 06432 | Darmstadt-Dieburg                 | Landkreis        |
+| 06433 | 06433 | Groß-Gerau                        | Landkreis        |
+| 06434 | 06434 | Hochtaunuskreis                   | Landkreis        |
+| 06435 | 06435 | Main-Kinzig-Kreis                 | Landkreis        |
+| 06436 | 06436 | Main-Taunus-Kreis                 | Landkreis        |
+| 06437 | 06437 | Odenwaldkreis                     | Landkreis        |
+| 06438 | 06438 | Offenbach                         | Landkreis        |
+| 06439 | 06439 | Rheingau-Taunus-Kreis             | Landkreis        |
+| 06440 | 06440 | Wetteraukreis                     | Landkreis        |
+| 06531 | 06531 | Gießen                            | Landkreis        |
+| 06532 | 06532 | Lahn-Dill-Kreis                   | Landkreis        |
+| 06533 | 06533 | Limburg-Weilburg                  | Landkreis        |
+| 06534 | 06534 | Marburg-Biedenkopf                | Landkreis        |
+| 06535 | 06535 | Vogelsbergkreis                   | Landkreis        |
+| 06611 | 06611 | Kassel                            | Kreisfreie Stadt |
+| 06631 | 06631 | Fulda                             | Landkreis        |
+| 06632 | 06632 | Hersfeld-Rotenburg                | Landkreis        |
+| 06633 | 06633 | Kassel                            | Landkreis        |
+| 06634 | 06634 | Schwalm-Eder-Kreis                | Landkreis        |
+| 06635 | 06635 | Waldeck-Frankenberg               | Landkreis        |
+| 06636 | 06636 | Werra-Meißner-Kreis               | Landkreis        |
+| 07111 | 07111 | Koblenz                           | Kreisfreie Stadt |
+| 07131 | 07131 | Ahrweiler                         | Landkreis        |
+| 07132 | 07132 | Altenkirchen (Westerwald)         | Landkreis        |
+| 07133 | 07133 | Bad Kreuznach                     | Landkreis        |
+| 07134 | 07134 | Birkenfeld                        | Landkreis        |
+| 07135 | 07135 | Cochem-Zell                       | Landkreis        |
+| 07137 | 07137 | Mayen-Koblenz                     | Landkreis        |
+| 07138 | 07138 | Neuwied                           | Landkreis        |
+| 07140 | 07140 | Rhein-Hunsrück-Kreis              | Landkreis        |
+| 07141 | 07141 | Rhein-Lahn-Kreis                  | Landkreis        |
+| 07143 | 07143 | Westerwaldkreis                   | Landkreis        |
+| 07211 | 07211 | Trier                             | Kreisfreie Stadt |
+| 07231 | 07231 | Bernkastel-Wittlich               | Landkreis        |
+| 07232 | 07232 | Eifelkreis Bitburg-Prüm           | Landkreis        |
+| 07233 | 07233 | Vulkaneifel                       | Landkreis        |
+| 07235 | 07235 | Trier-Saarburg                    | Landkreis        |
+| 07311 | 07311 | Frankenthal (Pfalz)               | Kreisfreie Stadt |
+| 07312 | 07312 | Kaiserslautern                    | Kreisfreie Stadt |
+| 07313 | 07313 | Landau in der Pfalz               | Kreisfreie Stadt |
+| 07314 | 07314 | Ludwigshafen am Rhein             | Kreisfreie Stadt |
+| 07315 | 07315 | Mainz                             | Kreisfreie Stadt |
+| 07316 | 07316 | Neustadt an der Weinstraße        | Kreisfreie Stadt |
+| 07317 | 07317 | Pirmasens                         | Kreisfreie Stadt |
+| 07318 | 07318 | Speyer                            | Kreisfreie Stadt |
+| 07319 | 07319 | Worms                             | Kreisfreie Stadt |
+| 07320 | 07320 | Zweibrücken                       | Kreisfreie Stadt |
+| 07331 | 07331 | Alzey-Worms                       | Landkreis        |
+| 07332 | 07332 | Bad Dürkheim                      | Landkreis        |
+| 07333 | 07333 | Donnersbergkreis                  | Landkreis        |
+| 07334 | 07334 | Germersheim                       | Landkreis        |
+| 07335 | 07335 | Kaiserslautern                    | Landkreis        |
+| 07336 | 07336 | Kusel                             | Landkreis        |
+| 07337 | 07337 | Südliche Weinstraße               | Landkreis        |
+| 07338 | 07338 | Rhein-Pfalz-Kreis                 | Landkreis        |
+| 07339 | 07339 | Mainz-Bingen                      | Landkreis        |
+| 07340 | 07340 | Südwestpfalz                      | Landkreis        |
+| 08111 | 08111 | Stuttgart                         | Stadtkreis       |
+| 08115 | 08115 | Böblingen                         | Landkreis        |
+| 08116 | 08116 | Esslingen                         | Landkreis        |
+| 08117 | 08117 | Göppingen                         | Landkreis        |
+| 08118 | 08118 | Ludwigsburg                       | Landkreis        |
+| 08119 | 08119 | Rems-Murr-Kreis                   | Landkreis        |
+| 08121 | 08121 | Heilbronn                         | Stadtkreis       |
+| 08125 | 08125 | Heilbronn                         | Landkreis        |
+| 08126 | 08126 | Hohenlohekreis                    | Landkreis        |
+| 08127 | 08127 | Schwäbisch Hall                   | Landkreis        |
+| 08128 | 08128 | Main-Tauber-Kreis                 | Landkreis        |
+| 08135 | 08135 | Heidenheim                        | Landkreis        |
+| 08136 | 08136 | Ostalbkreis                       | Landkreis        |
+| 08211 | 08211 | Baden-Baden                       | Stadtkreis       |
+| 08212 | 08212 | Karlsruhe                         | Stadtkreis       |
+| 08215 | 08215 | Karlsruhe                         | Landkreis        |
+| 08216 | 08216 | Rastatt                           | Landkreis        |
+| 08221 | 08221 | Heidelberg                        | Stadtkreis       |
+| 08222 | 08222 | Mannheim                          | Stadtkreis       |
+| 08225 | 08225 | Neckar-Odenwald-Kreis             | Landkreis        |
+| 08226 | 08226 | Rhein-Neckar-Kreis                | Landkreis        |
+| 08231 | 08231 | Pforzheim                         | Stadtkreis       |
+| 08235 | 08235 | Calw                              | Landkreis        |
+| 08236 | 08236 | Enzkreis                          | Landkreis        |
+| 08237 | 08237 | Freudenstadt                      | Landkreis        |
+| 08311 | 08311 | Freiburg im Breisgau              | Stadtkreis       |
+| 08315 | 08315 | Breisgau-Hochschwarzwald          | Landkreis        |
+| 08316 | 08316 | Emmendingen                       | Landkreis        |
+| 08317 | 08317 | Ortenaukreis                      | Landkreis        |
+| 08325 | 08325 | Rottweil                          | Landkreis        |
+| 08326 | 08326 | Schwarzwald-Baar-Kreis            | Landkreis        |
+| 08327 | 08327 | Tuttlingen                        | Landkreis        |
+| 08335 | 08335 | Konstanz                          | Landkreis        |
+| 08336 | 08336 | Lörrach                           | Landkreis        |
+| 08337 | 08337 | Waldshut                          | Landkreis        |
+| 08415 | 08415 | Reutlingen                        | Landkreis        |
+| 08416 | 08416 | Tübingen                          | Landkreis        |
+| 08417 | 08417 | Zollernalbkreis                   | Landkreis        |
+| 08421 | 08421 | Ulm                               | Stadtkreis       |
+| 08425 | 08425 | Alb-Donau-Kreis                   | Landkreis        |
+| 08426 | 08426 | Biberach                          | Landkreis        |
+| 08435 | 08435 | Bodenseekreis                     | Landkreis        |
+| 08436 | 08436 | Ravensburg                        | Landkreis        |
+| 08437 | 08437 | Sigmaringen                       | Landkreis        |
+| 09161 | 09161 | Ingolstadt                        | Kreisfreie Stadt |
+| 09162 | 09162 | München                           | Kreisfreie Stadt |
+| 09163 | 09163 | Rosenheim                         | Kreisfreie Stadt |
+| 09171 | 09171 | Altötting                         | Landkreis        |
+| 09172 | 09172 | Berchtesgadener Land              | Landkreis        |
+| 09173 | 09173 | Bad Tölz-Wolfratshausen           | Landkreis        |
+| 09174 | 09174 | Dachau                            | Landkreis        |
+| 09175 | 09175 | Ebersberg                         | Landkreis        |
+| 09176 | 09176 | Eichstätt                         | Landkreis        |
+| 09177 | 09177 | Erding                            | Landkreis        |
+| 09178 | 09178 | Freising                          | Landkreis        |
+| 09179 | 09179 | Fürstenfeldbruck                  | Landkreis        |
+| 09180 | 09180 | Garmisch-Partenkirchen            | Landkreis        |
+| 09181 | 09181 | Landsberg am Lech                 | Landkreis        |
+| 09182 | 09182 | Miesbach                          | Landkreis        |
+| 09183 | 09183 | Mühldorf a. Inn                   | Landkreis        |
+| 09184 | 09184 | München                           | Landkreis        |
+| 09185 | 09185 | Neuburg-Schrobenhausen            | Landkreis        |
+| 09186 | 09186 | Pfaffenhofen a.d. Ilm             | Landkreis        |
+| 09187 | 09187 | Rosenheim                         | Landkreis        |
+| 09188 | 09188 | Starnberg                         | Landkreis        |
+| 09189 | 09189 | Traunstein                        | Landkreis        |
+| 09190 | 09190 | Weilheim-Schongau                 | Landkreis        |
+| 09261 | 09261 | Landshut                          | Kreisfreie Stadt |
+| 09262 | 09262 | Passau                            | Kreisfreie Stadt |
+| 09263 | 09263 | Straubing                         | Kreisfreie Stadt |
+| 09271 | 09271 | Deggendorf                        | Landkreis        |
+| 09272 | 09272 | Freyung-Grafenau                  | Landkreis        |
+| 09273 | 09273 | Kelheim                           | Landkreis        |
+| 09274 | 09274 | Landshut                          | Landkreis        |
+| 09275 | 09275 | Passau                            | Landkreis        |
+| 09276 | 09276 | Regen                             | Landkreis        |
+| 09277 | 09277 | Rottal-Inn                        | Landkreis        |
+| 09278 | 09278 | Straubing-Bogen                   | Landkreis        |
+| 09279 | 09279 | Dingolfing-Landau                 | Landkreis        |
+| 09361 | 09361 | Amberg                            | Kreisfreie Stadt |
+| 09362 | 09362 | Regensburg                        | Kreisfreie Stadt |
+| 09363 | 09363 | Weiden i.d. OPf.                  | Kreisfreie Stadt |
+| 09371 | 09371 | Amberg-Sulzbach                   | Landkreis        |
+| 09372 | 09372 | Cham                              | Landkreis        |
+| 09373 | 09373 | Neumarkt i.d. OPf.                | Landkreis        |
+| 09374 | 09374 | Neustadt a.d. Waldnaab            | Landkreis        |
+| 09375 | 09375 | Regensburg                        | Landkreis        |
+| 09376 | 09376 | Schwandorf                        | Landkreis        |
+| 09377 | 09377 | Tirschenreuth                     | Landkreis        |
+| 09461 | 09461 | Bamberg                           | Kreisfreie Stadt |
+| 09462 | 09462 | Bayreuth                          | Kreisfreie Stadt |
+| 09463 | 09463 | Coburg                            | Kreisfreie Stadt |
+| 09464 | 09464 | Hof                               | Kreisfreie Stadt |
+| 09471 | 09471 | Bamberg                           | Landkreis        |
+| 09472 | 09472 | Bayreuth                          | Landkreis        |
+| 09473 | 09473 | Coburg                            | Landkreis        |
+| 09474 | 09474 | Forchheim                         | Landkreis        |
+| 09475 | 09475 | Hof                               | Landkreis        |
+| 09476 | 09476 | Kronach                           | Landkreis        |
+| 09477 | 09477 | Kulmbach                          | Landkreis        |
+| 09478 | 09478 | Lichtenfels                       | Landkreis        |
+| 09479 | 09479 | Wunsiedel i. Fichtelgebirge       | Landkreis        |
+| 09561 | 09561 | Ansbach                           | Kreisfreie Stadt |
+| 09562 | 09562 | Erlangen                          | Kreisfreie Stadt |
+| 09563 | 09563 | Fürth                             | Kreisfreie Stadt |
+| 09564 | 09564 | Nürnberg                          | Kreisfreie Stadt |
+| 09565 | 09565 | Schwabach                         | Kreisfreie Stadt |
+| 09571 | 09571 | Ansbach                           | Landkreis        |
+| 09572 | 09572 | Erlangen-Höchstadt                | Landkreis        |
+| 09573 | 09573 | Fürth                             | Landkreis        |
+| 09574 | 09574 | Nürnberger Land                   | Landkreis        |
+| 09575 | 09575 | Neustadt a.d. Aisch-Bad Windsheim | Landkreis        |
+| 09576 | 09576 | Roth                              | Landkreis        |
+| 09577 | 09577 | Weißenburg-Gunzenhausen           | Landkreis        |
+| 09661 | 09661 | Aschaffenburg                     | Kreisfreie Stadt |
+| 09662 | 09662 | Schweinfurt                       | Kreisfreie Stadt |
+| 09663 | 09663 | Würzburg                          | Kreisfreie Stadt |
+| 09671 | 09671 | Aschaffenburg                     | Landkreis        |
+| 09672 | 09672 | Bad Kissingen                     | Landkreis        |
+| 09673 | 09673 | Rhön-Grabfeld                     | Landkreis        |
+| 09674 | 09674 | Haßberge                          | Landkreis        |
+| 09675 | 09675 | Kitzingen                         | Landkreis        |
+| 09676 | 09676 | Miltenberg                        | Landkreis        |
+| 09677 | 09677 | Main-Spessart                     | Landkreis        |
+| 09678 | 09678 | Schweinfurt                       | Landkreis        |
+| 09679 | 09679 | Würzburg                          | Landkreis        |
+| 09761 | 09761 | Augsburg                          | Kreisfreie Stadt |
+| 09762 | 09762 | Kaufbeuren                        | Kreisfreie Stadt |
+| 09763 | 09763 | Kempten (Allgäu)                  | Kreisfreie Stadt |
+| 09764 | 09764 | Memmingen                         | Kreisfreie Stadt |
+| 09771 | 09771 | Aichach-Friedberg                 | Landkreis        |
+| 09772 | 09772 | Augsburg                          | Landkreis        |
+| 09773 | 09773 | Dillingen a.d. Donau              | Landkreis        |
+| 09774 | 09774 | Günzburg                          | Landkreis        |
+| 09775 | 09775 | Neu-Ulm                           | Landkreis        |
+| 09776 | 09776 | Lindau (Bodensee)                 | Landkreis        |
+| 09777 | 09777 | Ostallgäu                         | Landkreis        |
+| 09778 | 09778 | Unterallgäu                       | Landkreis        |
+| 09779 | 09779 | Donau-Ries                        | Landkreis        |
+| 09780 | 09780 | Oberallgäu                        | Landkreis        |
 | 10041 | 10041 | Regionalverband Saarbrücken       | Landkreis        |
 | 10042 | 10042 | Merzig-Wadern                     | Landkreis        |
 | 10043 | 10043 | Neunkirchen                       | Landkreis        |
